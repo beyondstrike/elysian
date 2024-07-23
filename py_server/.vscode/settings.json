@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/730c0712-0035-4d76-8fde-f3e3796a0ca5/resourceGroups/elysian/providers/Microsoft.Web/sites/elysian-python",
+  "appService.deploySubpath": "."
+}
