@@ -61,7 +61,7 @@ Elysian is a multi-component project comprising a web client, mobile client, nod
    ```sh
    npm start
    ```
-4. The server will be running on `http://localhost:5000`.
+4. The server will be running on `http://localhost:8840`.
 
 ## Running the Python Server
 1. Navigate to the `py_server` directory:
